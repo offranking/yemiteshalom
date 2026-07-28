@@ -1,0 +1,6 @@
+{
+  "name": "SHALOM SUPER KITCHEN",
+  "description": "SHALOM SUPER KITCHEN - Delicious Catering for Every Occasion in Lagos, Nigeria.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
